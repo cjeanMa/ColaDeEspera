@@ -11,4 +11,5 @@ npm start
 [API SPEECHSYNTESYS](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
 
 
+![image](https://user-images.githubusercontent.com/17655229/140572452-a7568f28-49eb-4667-bc11-b7f6526132d0.png)
 
