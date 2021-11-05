@@ -7,12 +7,13 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "Jean Marco",
+  "author": "Jean Marco Castillo",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
