@@ -11,6 +11,15 @@ const lblEscritorio4 = document.querySelector("#lblEscritorio4")
 const socket = io();
 
 socket.on("estado-actual", ([t1, t2, t3, t4]) => {
+    
+    const audio = new Audio("./audio/new-ticket.mp3");
+    audio.play();
+    let dialogo = toString(t1.number);
+    console.log(dialogo);
+    let maquina = new SpeechSynthesisUtterance(t1.number.toString(10));
+    speechSynthesis.speak(maquina);
+    
+
     if (t1) {
         lblTicket1.innerText = t1.number
         lblEscritorio1.innerText = t1.desktop
