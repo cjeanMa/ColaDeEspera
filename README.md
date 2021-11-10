@@ -7,9 +7,17 @@ npm install
 npm start
 ```
 
+## Proyecto subido a AWS EC2, corriendo con pm2 y proxy con nginx
+[_Link Proyecto_](http://ec2-54-224-113-243.compute-1.amazonaws.com/nuevo-ticket.html)
+
+
+
 ### Se le agrego lectura del ticket a ser atendido, haciendo uso del API speech
 [API SPEECHSYNTESYS](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis)
 
 
-![image](https://user-images.githubusercontent.com/17655229/140572452-a7568f28-49eb-4667-bc11-b7f6526132d0.png)
+
+
+![image](https://user-images.githubusercontent.com/17655229/141207150-74ff0fb0-d1a6-4817-83c0-d2d3b5ef6fa9.png)
+
 
