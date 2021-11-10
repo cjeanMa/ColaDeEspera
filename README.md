@@ -8,7 +8,7 @@ npm start
 ```
 
 ## Proyecto subido a AWS EC2, corriendo con pm2 y proxy con nginx
-[_Link Proyecto_](http://ec2-54-224-113-243.compute-1.amazonaws.com/nuevo-ticket.html)
+[_Link Proyecto_](http://ec2-54-224-113-243.compute-1.amazonaws.com)
 
 
 
